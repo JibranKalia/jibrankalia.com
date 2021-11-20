@@ -1,3 +1,7 @@
+---
+created_at: "2020-09-21T07:19:24-05:00"
+---
+
 # Mac Keyboard Shortcut Symbols
 
 Because I had to keep looking it up:
