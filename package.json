@@ -11,7 +11,7 @@
     "docs:build": "vuepress build docs"
   },
   "engines": {
-    "node": "12.x"
+    "node": "16.x"
   },
   "license": "MIT"
 }
