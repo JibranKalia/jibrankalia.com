@@ -1,5 +1,8 @@
 # Senior Software Developer
 
+<!--![Headshot](./resources/headshot_cropped.jpg)-->
+<img src="./resources/headshot_cropped.jpg" width="200" height="200">
+
 [Blog](/blog/) <br /> My writings on software and life.
 
 [Wiki](/wiki/) <br /> Wiki of things I found useful.
