@@ -7,3 +7,5 @@ node_modules/
 src/_drafts
 package-lock.json
 public
+docs/.vuepress/.cache/default-development
+docs/.vuepress/.temp
