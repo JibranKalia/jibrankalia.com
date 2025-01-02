@@ -1,7 +1,6 @@
 ---
 created_at: "2020-04-26T18:10:14.000Z"
 description: Official name for localhost
-state: published
 tags:
   - IP address
 ---

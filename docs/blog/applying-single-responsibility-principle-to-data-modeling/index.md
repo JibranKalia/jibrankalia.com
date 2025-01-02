@@ -2,7 +2,6 @@
 title: 'Applying Single Responsibility Principle to Data Modeling'
 created_at: "2020-09-19T17:52:38.771Z"
 description: Models should only have one responsibility
-state: published
 image: '/applying-single-responsibility-principle-to-data-modeling/image-redaction.jpg'
 tags:
   - SRP

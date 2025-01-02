@@ -1,7 +1,6 @@
 ---
 created_at: "2020-04-05T16:19:41.108Z"
 description: Enable navigating around wrapped lines using vim commands in Quiver
-state: published
 tags:
   - Writing
   - Quiver

@@ -1,7 +1,6 @@
 ---
 created_at: "2020-06-11T19:59:55.066Z"
 description: Inspirations from Rodauth
-state: draft
 tags:
   - Sequel
   - PG Json

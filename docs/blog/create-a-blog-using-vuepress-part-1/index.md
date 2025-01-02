@@ -1,7 +1,6 @@
 ---
 created_at: "2020-04-20T15:32:33.874Z"
 description: My experience using VuePress to create a blog - Part 1
-state: editing
 tags:
   - Vue.js
   - VuePress

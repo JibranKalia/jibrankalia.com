@@ -1,7 +1,6 @@
 ---
 created_at: "2020-07-11T11:03:00.000Z"
 description: "Mapping relational databases to objects"
-state: "done"
 tags:
   - Active Record
   - Martin Fowler
